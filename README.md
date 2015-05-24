@@ -19,4 +19,4 @@ export class Heater {
 }
 ```
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Example](https://github.com/AljoschaP/JavascriptListingStyle/blob/master/listingstyle.png)
